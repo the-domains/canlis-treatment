@@ -1,0 +1,28 @@
+name: Savor each second
+favicon: null
+layout_spectrum: 0.610935810720548
+typography_spectrum: 0.3570547201670706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6065871119499207
+  lightness: 0.7832533405162394
+  saturation: 0.14456691429950297
+  rhythmicContrast: 0.6641638586297631
+purpose: []
