@@ -1,7 +1,7 @@
-name: Savor each second
+name: Canlis
 favicon: null
-layout_spectrum: 0.5483871
-typography_spectrum: 0.765233
+layout_spectrum: 0.76727
+typography_spectrum: 0.95904
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#9CA093'
-    - '#1D1F20'
-    - '#4D4D4D'
-    - '#848A7F'
-  brandStrength: 0.5663083
-  lightness: 0.6935484
+    - '#080c12'
+    - '#8c9068'
+    - '#5b5739'
+    - '#3d3c28'
+    - '#acb28e'
+  brandStrength: 0.25
+  lightness: 0.25
   saturation: 0.3315412
-  rhythmicContrast: 0.5555556
+  rhythmicContrast: 0.75
 purpose: []
