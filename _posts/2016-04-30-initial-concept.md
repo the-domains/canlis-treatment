@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: "The purpose of this treatment is to establish a creative vision for our project. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone."
-datePublished: '2016-05-03T23:14:20.623Z'
-dateModified: '2016-05-03T23:14:20.070Z'
+datePublished: '2016-05-03T23:22:05.631Z'
+dateModified: '2016-05-03T23:21:36.590Z'
 author:
   - name: ''
     url: ''
