@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: "The purpose of this treatment is to establish a creative vision for our project. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone."
-datePublished: '2016-05-03T23:22:05.631Z'
-dateModified: '2016-05-03T23:21:36.590Z'
+datePublished: '2016-05-03T23:37:07.971Z'
+dateModified: '2016-05-03T23:37:06.905Z'
 author:
   - name: ''
     url: ''
@@ -39,19 +39,19 @@ The video will finish with words on the screen; something like, "Savor what's sp
 ## Inspiration Material
 
 **1\. Dear Brother**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/13179d6617afdfa6049a18c37cf2a8309cf71021.png)
 
 I like everything about this commercial, especially the way they foreshadow the big twist but you only realize it after the fact. It makes you want to watch it again to discover new meaning. This is a really good example of the overall emotion, mood and tone I'm envisioning for our project. I was inspired in my concept from this piece, as you'll see.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/13179d6617afdfa6049a18c37cf2a8309cf71021.png)
 
 **2\. Do Not Go Gentle**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0f2a23-e3c3-4391-9250-243e4ff98083.png)
 
 I love the subtle moments of humanity in this piece, especially through the faces and situations of the characters. Specifically, when Hulk Hogan smiles after the janitor gives him a head nod, or the way the guy in the car is a different person outside his day job, or the vulnerability in the eyes of the guy working out. These kinds of details communicate so much about what a character is thinking and feeling, and it allows the audience to use their imagination. I want to replicate this vibe of visual storytelling.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0f2a23-e3c3-4391-9250-243e4ff98083.png)
 
 **3\. More than Brains**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b028f9-ac7d-40de-b6c3-aefc596f138d.png)
 
-My favorite moment in this piece is when the waitress looks at the camera with smirk on her face (above). It goes perfectly with the song and adds influence into how she's feeling. Additionally, I like the mood and overall humanity of the many scenarios they show. It feels real and authentic. I want to showcase authenticity in our piece as well.
+My favorite moment in this piece is when the waitress looks at the camera with smirk on her face (below). It goes perfectly with the song and adds influence into how she's feeling. Additionally, I like the mood and overall humanity of the many scenarios they show. It feels real and authentic. I want to showcase authenticity in our piece as well.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b028f9-ac7d-40de-b6c3-aefc596f138d.png)
 
 ---
 
