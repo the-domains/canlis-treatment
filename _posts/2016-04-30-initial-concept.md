@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: "The purpose of this treatment is to establish a creative vision for our project. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone."
-datePublished: '2016-05-03T23:37:07.971Z'
-dateModified: '2016-05-03T23:37:06.905Z'
+datePublished: '2016-05-03T23:39:52.476Z'
+dateModified: '2016-05-03T23:39:51.716Z'
 author:
   - name: ''
     url: ''
@@ -32,7 +32,7 @@ The story is centered around a seasoned father getting dressed for his little gi
 
 Throughout the entire montage, a narrator (Mark) will be reading something poetic; similar to the small Ad you wrote about the toast for your daughter. Same type of vibe --- heartfelt, uplifting, intriguing.
 
-The story concludes with a twist... the father, eyes closed, waits to see his daughter in her dress, when a grown woman's hands reach around from behind to cover his eyes, prompting him to turn around and see that his daughter is fully grown and she's in her wedding dress on her wedding day. We may even do cross cut of his young daughter's face at that time to drive home the point that while he was getting ready, he was remembering all the special moments they've shared In the past leading up to this day.
+The story concludes with a twist... the father, eyes closed, waits to see his daughter in her dress, when a grown woman's hands reach around from behind to cover his eyes, prompting him to turn around and see that his daughter is fully grown, wearing her wedding dress on her wedding day. We could do a cross cut edit of his young daughter's face at that moment to drive home the point that while he was getting ready, he was only remembering all the special moments they've shared leading up to this day.
 
 The video will finish with words on the screen; something like, "Savor what's special" which will tie into the theme of the voiceover. Fade to black --- Canlis.
 
