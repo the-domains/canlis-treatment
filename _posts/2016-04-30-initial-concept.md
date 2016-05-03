@@ -1,13 +1,16 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: "The purpose of this treatment is to establish a creative vision for our project. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone."
-datePublished: '2016-05-03T23:09:31.279Z'
-dateModified: '2016-05-03T23:09:25.388Z'
-author: []
+datePublished: '2016-05-03T23:14:20.623Z'
+dateModified: '2016-05-03T23:14:20.070Z'
+author:
+  - name: ''
+    url: ''
 title: Initial Concept
 sourcePath: _posts/2016-04-30-initial-concept.md
 published: true
@@ -18,13 +21,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: initial-concept/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 The purpose of this treatment is to establish a creative vision for our project. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone.
 
-# Initial Concept
+## Initial Concept
 
 The story is centered around a seasoned father getting dressed for his little girls' special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, etc. While we're seeing all of this, we'll also see his daughter getting ready: opening her dress from a big box with a bow, looking in the mirror, brushing her hair, etc. Additionally, there will be a few scenes where the daughter and her dad "interact" such as: she runs past the door in excitement as her dad is shaving, or we see her twirling in the mirror while her dad ties his neck tie, but when he looks back she'e gone. Just then she pops out of the closet and surprises him... Scenes like these will be important for the end of the film.
 
@@ -34,7 +36,7 @@ The story concludes with a twist... the father, eyes closed, waits to see his da
 
 The video will finish with words on the screen; something like, "Savor what's special" which will tie into the theme of the voiceover. Fade to black --- Canlis.
 
-# Inspiration Material
+## Inspiration Material
 
 **1\. Dear Brother**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/13179d6617afdfa6049a18c37cf2a8309cf71021.png)
