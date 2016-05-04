@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
-description: "The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we’ll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two “interact” with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film. "
-datePublished: '2016-05-04T01:34:58.808Z'
-dateModified: '2016-05-04T01:34:11.160Z'
+description: "The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we’ll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two “interact” with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film."
+datePublished: '2016-05-04T01:36:29.460Z'
+dateModified: '2016-05-04T01:36:25.382Z'
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ starred: true
 _type: MediaObject
 
 ---
-> The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone.
+> The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey mood, style, and tone.
 
 ## Initial Concept
 
