@@ -5,13 +5,13 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
-description: "The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we’ll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two “interact” with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film."
-datePublished: '2016-05-04T01:24:02.397Z'
-dateModified: '2016-05-04T01:23:52.728Z'
+description: "The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we’ll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two “interact” with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film. "
+datePublished: '2016-05-04T01:34:58.808Z'
+dateModified: '2016-05-04T01:34:11.160Z'
 author:
   - name: ''
     url: ''
-title: ''
+title: Initial Concept
 sourcePath: _posts/2016-04-30-initial-concept.md
 published: true
 authors: []
@@ -26,8 +26,6 @@ _type: MediaObject
 ---
 > The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone.
 
-**---**
-
 ## Initial Concept
 
 The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we'll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two "interact" with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film.
@@ -40,22 +38,14 @@ The video will finish with words on the screen; something like, "Savor what's sp
 
 ## Inspiration Material
 
-****
+**1\. Dear Brother **--- I like everything about this commercial, especially the way they foreshadow the big twist but you only realize it after the fact. It makes you want to watch it again to discover new meaning. This is a really good example of the overall emotion, mood and tone I'm envisioning for our project. I was inspired in my concept from this piece, as you'll see.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f7b0e0-d38c-45f7-bf84-025198f038c0.png)
 
-**Dear Brother**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eba0d5f3f7b19530eeb9d8721938d7e812186a8.png)
+**2\. Do Not Go Gentle** --- I love the subtle moments of humanity in this piece, especially through the faces and situations of the characters. Specifically, when Hulk Hogan smiles after the janitor gives him a head nod, or the way the guy in the car is a different person outside his day job, or the vulnerability in the eyes of the guy working out. These kinds of details communicate so much about what a character is thinking and feeling, and it allows the audience to use their imagination. I want to replicate this vibe of visual storytelling.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf4e340-3bb0-4e09-9f33-1f9c6509659a.png)
 
-I like everything about this commercial, especially the way they foreshadow the big twist but you only realize it after the fact. It makes you want to watch it again to discover new meaning. This is a really good example of the overall emotion, mood and tone I'm envisioning for our project. I was inspired in my concept from this piece, as you'll see.
-
-**Do Not Go Gentle**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de76c9d3-ed22-4052-9fb0-0e17dfd75f21.png)
-
-I love the subtle moments of humanity in this piece, especially through the faces and situations of the characters. Specifically, when Hulk Hogan smiles after the janitor gives him a head nod, or the way the guy in the car is a different person outside his day job, or the vulnerability in the eyes of the guy working out. These kinds of details communicate so much about what a character is thinking and feeling, and it allows the audience to use their imagination. I want to replicate this vibe of visual storytelling.
-
-**More than Brains**
+**3\. More than Brains** --- My favorite moment in this piece is when the waitress looks at the camera with smirk on her face (above). It goes perfectly with the song and adds influence into how she's feeling. Additionally, I like the mood and overall humanity of the many scenarios they show. It feels real and authentic. I want to showcase authenticity in our piece as well.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b028f9-ac7d-40de-b6c3-aefc596f138d.png)
-
-My favorite moment in this piece is when the waitress looks at the camera with smirk on her face (above). It goes perfectly with the song and adds influence into how she's feeling. Additionally, I like the mood and overall humanity of the many scenarios they show. It feels real and authentic. I want to showcase authenticity in our piece as well.
 
 ---
 
