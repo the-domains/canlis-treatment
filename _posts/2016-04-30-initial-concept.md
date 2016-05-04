@@ -5,13 +5,13 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
-description: "Throughout the montage, our narrator (Mark!?) will be reading something poetic that loosely relates to what we're seeing. Something similar to the \"toast\" Ad you wrote. Same kind of mood — emotional, epic, and intriguing."
-datePublished: '2016-05-04T02:37:41.772Z'
-dateModified: '2016-05-04T02:37:33.600Z'
+description: 'The story will conclude with a twist... hands over his eyes and counting, the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
+datePublished: '2016-05-04T02:57:10.325Z'
+dateModified: '2016-05-04T02:56:12.068Z'
 author:
   - name: ''
     url: ''
-title: ' '
+title: Initial Concept
 sourcePath: _posts/2016-04-30-initial-concept.md
 published: true
 authors: []
@@ -24,9 +24,9 @@ starred: true
 _type: MediaObject
 
 ---
-> The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey mood, style, and tone.
+> Savor what's special.
 
-## 
+The purpose of this film is to elicit the universal truth that life's special moments are worth savoring. This treatment aims to establish a creative vision for our project. In addition to verbal descriptions, I've included links to reference material to help convey mood, style, and tone.
 
 ## Initial Concept
 
@@ -41,17 +41,14 @@ The video will finish with words on the screen; something like, "Savor what's sp
 ## Inspiration Material
 
 **1\. Dear Brother **--- I like everything about this commercial, especially the way they foreshadow the big twist but you only realize it after the fact. It makes you want to watch it again to discover new meaning. This is a really good example of the overall emotion, mood and tone I'm envisioning for our project. I was inspired in my concept from this piece, as you'll see.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3c15c59202ac1f17c14087379d19d62/passthrough.png?height=317&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7f72cd21a2682cb48b90c1b8f40a4a9452176e63.png&width=750)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8987d60-0e0c-4b1c-bbaf-43586d767b14.png)
 
-# Dear Brother
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f7b0e0-d38c-45f7-bf84-025198f038c0.png)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63eac76d9e51c42a42d6b221d110c42d/passthrough.png?height=401&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7cf4e340-3bb0-4e09-9f33-1f9c6509659a.png&width=750)
-
-# Do Not Go Gentle
+**2\. Do Not Go Gentle --- **I love the subtle moments of humanity in this piece shown through the faces and situations of each characters. Particularly when Hulk Hogan smiles after the janitor gives him a head nod, or how the guy in the car has an alter ego, and the sort of vulnerability in the eyes of the guy working out. These kinds of details communicate so much about what they're thinking and feeling. I want to replicate this vibe of visual storytelling.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf4e340-3bb0-4e09-9f33-1f9c6509659a.png)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5da6c4554cd894256ae8ae1662a4ebf/passthrough.png?height=318&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F83b028f9-ac7d-40de-b6c3-aefc596f138d.png&width=750)
 
-# More than Brains
+**3\. More than Brains ---** My favorite moment in this piece is the smirk on the waitresses face (seen above). It's perfectly timed in the song and it adds a rich picture into what how she is feeling.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b028f9-ac7d-40de-b6c3-aefc596f138d.png)
 
-> Overall, these examples layer atmospheric sound and visuals to drive their story and communicate emotion. That's what I'm going for with our piece, something that connects universally and emotionally.
+---
+
+> These examples all create atmosphere through purposeful visuals & sound to drive the story and communicate emotion. That's what I'm going for with our piece, something that connects universally and emotionally.
