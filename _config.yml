@@ -1,6 +1,6 @@
 name: Canlis Treatment
 favicon: null
-layout_spectrum: 0.91765
+layout_spectrum: 0.23762
 typography_spectrum: 0.95904
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#5b5739'
     - '#3d3c28'
     - '#acb28e'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.875
+  brandStrength: 0.9375
+  lightness: 0.4375
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
