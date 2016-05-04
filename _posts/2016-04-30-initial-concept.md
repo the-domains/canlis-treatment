@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: "The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we’ll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two “interact” with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film."
-datePublished: '2016-05-04T01:15:17.385Z'
-dateModified: '2016-05-04T01:13:40.639Z'
+datePublished: '2016-05-04T01:24:02.397Z'
+dateModified: '2016-05-04T01:23:52.728Z'
 author:
   - name: ''
     url: ''
@@ -20,13 +20,15 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 _type: MediaObject
 
 ---
-## The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone.
+> The purpose of this treatment is to establish a creative vision for our film. In addition to verbal descriptions, we've included links to reference material to help convey style, mood, and tone.
 
-**Initial Concept**
+**---**
+
+## Initial Concept
 
 The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we'll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two "interact" with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film.
 
@@ -37,6 +39,8 @@ The story will conclude with a twist... hands over his eyes and counting, the fa
 The video will finish with words on the screen; something like, "Savor what's special" which will tie into the theme of the voiceover. Fade to black --- Canlis.
 
 ## Inspiration Material
+
+****
 
 **Dear Brother**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eba0d5f3f7b19530eeb9d8721938d7e812186a8.png)
