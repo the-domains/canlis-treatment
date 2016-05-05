@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: 'The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
-datePublished: '2016-05-05T21:13:21.729Z'
-dateModified: '2016-05-05T21:13:15.399Z'
+datePublished: '2016-05-05T21:16:07.271Z'
+dateModified: '2016-05-05T21:16:03.328Z'
 author:
   - name: ''
     url: ''
@@ -50,4 +50,6 @@ The video will finish with words on the screen; something like, "Savor what's sp
 
 ---
 
-> These examples all create atmosphere through purposeful visuals & sound to drive the story and communicate emotion. That's what I'm going for with our piece, something that connects universally and emotionally.
+## Summary
+
+These examples all create atmosphere through purposeful visuals & sound to drive the story and communicate emotion. That's what I'm going for with our piece, something that connects universally and emotionally.
