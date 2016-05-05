@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
-description: 'The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
-datePublished: '2016-05-05T21:19:14.737Z'
-dateModified: '2016-05-05T21:19:13.186Z'
+description: "The story concludes with a twist... with hands over his eyes, counting, our father waits to see his daughter in her dress. Just then, manicured hands reach from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown; she's wearing her wedding dress on her wedding day. Through the words spoken and the build up of visuals to this moment, the audience will realize the entire time he was getting ready, he was actually remembering on the special moments they’ve shared leading up to this day."
+datePublished: '2016-05-05T21:35:24.389Z'
+dateModified: '2016-05-05T21:35:21.701Z'
 author:
   - name: ''
     url: ''
@@ -33,7 +33,7 @@ The story is centered around an established father getting dressed for his littl
 
 Throughout the montage, our narrator (Mark!?) will be reading something poetic that loosely relates to what we're seeing. Something similar to the "toast" Ad you wrote. Same kind of mood --- emotional, epic, and intriguing.
 
-The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was _remembering_ special moments they've shared leading up to this day.
+The story concludes with a twist... with hands over his eyes, counting, our father waits to see his daughter in her dress. Just then, manicured hands reach from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown; she's wearing her wedding dress on her wedding day. Through the words spoken and the build up of visuals to this moment, the audience will realize the entire time he was getting ready, he was actually _remembering_ on the special moments they've shared leading up to this day.
 
 The video will finish with words on the screen; something like, "Savor what's special" which will tie into the theme of the voiceover. Fade to black --- Canlis.
 
