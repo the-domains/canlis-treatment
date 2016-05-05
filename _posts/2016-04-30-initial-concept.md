@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
 description: 'The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
-datePublished: '2016-05-05T21:16:07.271Z'
-dateModified: '2016-05-05T21:16:03.328Z'
+datePublished: '2016-05-05T21:19:14.737Z'
+dateModified: '2016-05-05T21:19:13.186Z'
 author:
   - name: ''
     url: ''
@@ -45,10 +45,8 @@ The video will finish with words on the screen; something like, "Savor what's sp
 **2\. Do Not Go Gentle --- **I love the subtle moments of humanity in this piece shown through the faces and situations of each characters. Particularly when Hulk Hogan smiles after the janitor gives him a head nod, or how the guy in the car has an alter ego, and the sort of vulnerability in the eyes of the guy working out. These kinds of details communicate so much about what they're thinking and feeling. I want to replicate this vibe of visual storytelling.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cf4e340-3bb0-4e09-9f33-1f9c6509659a.png)
 
-**3\. More than Brains ---** My favorite moment in this piece is the smirk on the waitresses face (seen above). It's perfectly timed in the song and it adds a rich picture into what how she is feeling.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b028f9-ac7d-40de-b6c3-aefc596f138d.png)
-
----
+**3\. More than Brains ---** My favorite moment in this piece is the smirk on the waitresses face (seen below). It's perfectly timed in the song and it adds a rich picture into what how she is feeling.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bded51d-389b-47f1-8ac2-fb847ae38bf8.png)
 
 ## Summary
 
