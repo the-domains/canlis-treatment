@@ -5,40 +5,39 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=h2caT4q4Nbs'
 inLanguage: null
 keywords: []
-description: 'The story will conclude with a twist... hands over his eyes and counting, the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
-datePublished: '2016-05-04T02:57:10.325Z'
-dateModified: '2016-05-04T02:56:12.068Z'
+description: 'The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was remembering special moments they’ve shared leading up to this day.'
+datePublished: '2016-05-05T21:13:21.729Z'
+dateModified: '2016-05-05T21:13:15.399Z'
 author:
   - name: ''
     url: ''
-title: Initial Concept
+title: Concept
 sourcePath: _posts/2016-04-30-initial-concept.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
-> Savor what's special.
+# Savor every second.
 
-The purpose of this film is to elicit the universal truth that life's special moments are worth savoring. This treatment aims to establish a creative vision for our project. In addition to verbal descriptions, I've included links to reference material to help convey mood, style, and tone.
+The purpose of this film is to elicit emotions around a universal truth: life's special moments are worth savoring. This treatment aims to establish a creative vision for the film. In addition to verbal descriptions, I've included links to reference material to help convey mood, style, and tone.
 
-## Initial Concept
+## Concept
 
 The story is centered around an established father getting dressed for his little girl's special day. We will see him picking out the perfect shirt/suit/tie, looking in the mirror to tie the perfect knot, shining his dress shoes, shaving, writing in a card, etc. While we're seeing all of this, we'll also see glimpses of his daughter getting ready; opening a dress from a big box with a bow, holding her dress in front of the mirror, etc. There will be a few scenes where the two "interact" with each other: she's peeking around the corner watching him shave and when he looks she hides, or we see her twirling in the mirror behind him while he ties his neck tie. The scenes featuring the father & daughter together will be important to the end of the film.
 
 Throughout the montage, our narrator (Mark!?) will be reading something poetic that loosely relates to what we're seeing. Something similar to the "toast" Ad you wrote. Same kind of mood --- emotional, epic, and intriguing.
 
-The story will conclude with a twist... hands over his eyes and counting, the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was _remembering_ special moments they've shared leading up to this day.
+The story concludes with a twist... with hands over his eyes (counting), the father waits to see his daughter in her dress. Just then manicured adult hands reach around from behind to uncover his eyes, prompting him to turn around and see his daughter fully grown, wearing her wedding dress on her wedding day. In fact, the entire time he was getting ready, he was _remembering_ special moments they've shared leading up to this day.
 
 The video will finish with words on the screen; something like, "Savor what's special" which will tie into the theme of the voiceover. Fade to black --- Canlis.
 
-## Inspiration Material
+## Inspirations
 
 **1\. Dear Brother **--- I like everything about this commercial, especially the way they foreshadow the big twist but you only realize it after the fact. It makes you want to watch it again to discover new meaning. This is a really good example of the overall emotion, mood and tone I'm envisioning for our project. I was inspired in my concept from this piece, as you'll see.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8987d60-0e0c-4b1c-bbaf-43586d767b14.png)
